@@ -2,6 +2,8 @@
 
 Rain Checkerは、Wi-Fiモジュール(ESP-WROOM-02)とドット・マトリックスLEDを使って、Yahoo!の気象情報APIから取得した降水予測を表示するArduinoプロジェクトです。
 
+![Rain Checker](./master/image/img_2378_640x480.jpg)
+
 (以下ドキュメントを作成中です。)
 
 Wi-Fiモジュールは、ESPr One(旧製品名:ESP-WROOM-02 Arduino互換ボード)やESPr Developer(旧製品名:ESP-WROOM-02開発ボード)を使用すると比較的簡単に作れます。
