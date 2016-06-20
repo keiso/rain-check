@@ -2,7 +2,7 @@
 
 Rain Checkerは、Wi-Fiモジュール(ESP-WROOM-02)とドット・マトリックスLEDを使って、Yahoo!の気象情報APIから取得した降水予測を表示するArduinoプロジェクトです。
 
-![Rain Checker](./image/img_2378_640x480.jpg)
+![Rain Checker](https://raw.githubusercontent.com/keiso/rain-checker/master/image/img_2378_640x480.jpg)
 
 (以下ドキュメントを作成中です。)
 
