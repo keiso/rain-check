@@ -8,7 +8,7 @@ Rain Checkerは、Wi-Fiモジュール(ESP-WROOM-02)とドット・マトリッ�
 
 Wi-Fiモジュールは、ESPr One(旧製品名:ESP-WROOM-02 Arduino互換ボード)やESPr Developer(旧製品名:ESP-WROOM-02開発ボード)を使用すると比較的簡単に作れます。
 
-ドット・マトリックスLEDは、アマゾンで販売されている300円前後で販売されているモジュールを使用します。MAX7219で検索すると見つかると思います。
+ドット・マトリックスLEDは、アマゾンで300円前後から販売されている販売されているモジュールを使用しています。MAX7219で検索すると見つかると思います。
 
 LedControl
 http://wayoda.github.io/LedControl/
